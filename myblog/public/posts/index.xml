@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Apr 2023 21:00:27 -0400</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stoicism in Social Media</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Fri, 28 Apr 2023 21:00:27 -0400</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>When I was a sophomore I took a class called biopsychology where I sat next to a girl writing her honors thesis on philosophy in American media. I have since lost touch with her but I still thing about her ideas regularly. One aspect of philosophy that her and I particularly discussed was stoicism. It’s an aspect of philosophy that has taken over, at least in my circles.
+I frequently see it present in gym culture, a subculture I spend a fair bit of time in.</description>
+    </item>
+    
+  </channel>
+</rss>
