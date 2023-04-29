@@ -2,3 +2,17 @@ baseURL = 'https://github.com/AT-Blaze/AT-Blaze.github.io.git/'
 languageCode = 'en-us'
 title = 'Blaze Blogs'
 theme = 'hugo-PaperMod'
+
+#[[menu.main]]
+#identifier = "categories"
+#name = "categories"
+#url = "/categories/"
+#weight = 10
+
+#[[menu.main]]
+#identifier = "tags"
+#name = "tags"
+#url = "/tags/"
+#weight = 20
+
+
