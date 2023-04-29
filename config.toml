@@ -3,11 +3,11 @@ languageCode = 'en-us'
 title = 'Blaze Blogs'
 theme = 'hugo-PaperMod'
 
-[[menu.main]]
-identifier = "categories"
-name = "Categories" #this one is what shows in the header
-url = "/categories/"
-weight = 10
+#[[menu.main]]
+#identifier = "categories"
+#name = "Categories" #this one is what shows in the header
+#url = "/categories/"
+#weight = 10
 
 #[[menu.main]]
 #identifier = "tags"
