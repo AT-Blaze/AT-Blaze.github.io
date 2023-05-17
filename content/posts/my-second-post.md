@@ -1,7 +1,7 @@
 ---
-title: "Stoicism in Social Media"
-date: 2023-04-28T21:00:27-04:00
-draft: true 
+title: "Bro, am I even normal?"
+date: 2023-05-16T21:00:27-04:00
+draft: false 
 ---
 
 The other day I was driving home and I was thinking about how normal I feel. I feel like on average I assume that I'm smack in the middle of the bell curve (I haven't added a comment box yet so you all can't tell me where you think I fall, I don't need that kind of negativity in my life). Anyway, my point with this is how predicatble I feel becuase of this. Like... I am just normal, if you make a guess about me based on "normal development" you're probably going to be right.
