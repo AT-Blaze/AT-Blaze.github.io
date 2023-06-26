@@ -1,7 +1,7 @@
 baseURL = 'https://github.com/AT-Blaze/AT-Blaze.github.io.git/'
 languageCode = 'en-us'
 title = 'Blaze Blogs'
-theme = 'hugo-PaperMod'
+theme = 'PaperMod'
 
 #[[menu.main]]
 #identifier = "categories"
