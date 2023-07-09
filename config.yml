@@ -1,0 +1,17 @@
+baseURL: 'https://github.com/AT-Blaze/AT-Blaze.github.io.git/'
+languageCode: 'en-us'
+title: 'Blaze Blogs'
+theme: 'PaperMod'
+
+taxonomies:
+    tag: tags
+    series: series
+menu:
+    main: 
+        - name: About
+          url: about
+          weight: 10
+        - name: Tags
+          url: tags
+          weight: 10 
+
