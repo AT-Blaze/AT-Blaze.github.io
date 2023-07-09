@@ -2,6 +2,7 @@
 title: "Stoicism in Social Media"
 date: 2023-04-28T21:00:27-04:00
 draft: false 
+tags: ['stoicism']
 ---
 When I was a sophomore I took a class called biopsychology where I sat next to a girl writing her honors thesis on philosophy in American media. I have since lost touch with her but I still thing about her ideas regularly. One aspect of philosophy that her and I particularly discussed was stoicism. It’s an aspect of philosophy that has taken over, at least in my circles.
 
