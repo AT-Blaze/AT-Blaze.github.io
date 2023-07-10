@@ -11,7 +11,36 @@ menu:
         - name: About
           url: about
           weight: 10
-        - name: Tags
+        - name: Categories 
           url: tags
           weight: 10 
+#params:
+#    homeInfoParams:
+#        Title: Hi! Welcome to my blog...
+#        Content: This is a place where I put all my silly little thoughts about things that I think about. You can read them below. Below is a chronological list of the posts I've written, some are text based and some are audio. If you want to fiter by type you can view the "Categories" page in the top right corner. 
+#
+#    socialIcons: # optional
+#        - name: "<platform>"
+#          url: "<link>"
+#        - name: "<platform 2>"
+#          url: "<link2>"
+params:
+    profileMode:
+        enabled: true
+        title: "Welcome to my blog!" # optional default will be site title
+        subtitle: "prepare your mind"
+        #imageUrl: "<image link>" # optional
+        #imageTitle: "<title of image as alt>" # optional
+        imageWidth: 120 # custom size
+        imageHeight: 120 # custom size
+        buttons:
+            - name: Find my blogs here
+              url: "posts"
+            #- name: Github
+              #url: "https://github.com/"
 
+#    socialIcons: # optional
+#        - name: "<platform>"
+#          url: "<link>"
+#        - name: "<platform 2>"
+#          url: "<link2>"

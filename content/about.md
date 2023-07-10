@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About my blog"
 # url: "/12/about"
 draft: false
 ---
