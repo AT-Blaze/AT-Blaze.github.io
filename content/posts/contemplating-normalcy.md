@@ -1,5 +1,5 @@
 ---
-title: "Bro, am I even normal?"
+title: "Contemplating normalcy"
 date: 2023-05-16T21:00:27-04:00
 draft: false 
 ---
