@@ -1,7 +1,7 @@
 ---
 title: "another"
 date: 2023-05-23T10:00:27-04:00
-draft: true 
+draft: false
 ---
 ![Alternate Text](/images/test-img.jpg)
 {{<figure src="test-img.png">}}
