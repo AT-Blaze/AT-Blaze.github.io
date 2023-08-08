@@ -14,9 +14,9 @@ menu:
         - name: Categories 
           url: tags
           weight: 10 
-#        - name: Academics
-#          url: academics #points to the academics folder in content/
-#          weight: 10
+        - name: Academics
+          url: academics #points to the academics folder in content/
+          weight: 10
 params:
     homeInfoParams:
         Title: Hi! Welcome to my blog...

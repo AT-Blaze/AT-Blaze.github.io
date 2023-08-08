@@ -1,9 +1,10 @@
 ---
-title: "kizzy"
+title: "another"
 date: 2023-05-23T10:00:27-04:00
 draft: true 
 ---
-
+![Alternate Text](content/test-img.jpg)
+{{<figure src="test-img.png">}}
 Recently I was thinking about when people make health decisions, like to cut out carbs, or to go vegan. Often they say they feel pretty good. On the other hand there's often the argument that "you don't want to be skinny, you want the feeling that you *think* you'll have when you're skinny" which I think is pretty interesting. Obviously not everyone is making health decisions to be skinny, but it seems across the board that it generally seems to be a positive thing for the peope making the change. 
 
 I was thinking about how much of it really just comes down to being intentional about your decisions. For example, some of my friends have cut out things like red meat, or some of them have cut out carbs. Some people do it for ethical reasons, they just don't want to be part of the environmental impact that meat farming causes. Fair enough. Others are doing it for weightloss, and though some people say losing weight sucks, ehhh. Sure being in a caloric deficit isn't the best feeling, but losing weight DOES feel good. You feel accomplished, or succesful (of course, thats the same kind of thinking that can get you locked into disordered patterns, but the feeling is there nonetheless. 
