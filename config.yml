@@ -1,5 +1,5 @@
 baseURL: 'https://github.com/AT-Blaze/AT-Blaze.github.io.git/'
-canonifyURLs: true
+canonifyURLs: true #this allows for the rendering of my images in the local server (idky it doesnt work any other way, relativeURLs destroys my CSS, and changing baseURL didnt help
 languageCode: 'en-us'
 title: 'Blaze Blogs'
 theme: 'PaperMod'
