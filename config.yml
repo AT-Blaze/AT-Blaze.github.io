@@ -28,6 +28,9 @@ params:
           url: "https://github.com/AT-Blaze"
         - name: "instagram"
           url: "https://www.instagram.com/boulder.blaze/"
+        - name: "linkedin"
+          url: "https://www.linkedin.com/in/antranig-douglas"
+
 #params:
 #    profileMode:
 #        enabled: true
