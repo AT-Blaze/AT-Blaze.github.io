@@ -15,5 +15,5 @@ For anyone interested, heres a list of my personal records for various fitness a
 |--------------|-------------|------------|
 | Deadlift     | 430lbs      |08/2023     |
 | Squat        | 405lbs      |11/2022     |
-| Bench        | 265lbs      |11/2022     |
+| Bench        | 275lbs      |08/2023     |
 | Mile         | 6:38        |7/2022      |
