@@ -1,7 +1,7 @@
 ---
 title: "Social Media's gotten kinda foul"
 date: 2023-09-03T08:48:32-04:00
-draft: true
+draft: false
 tags: ['social media']
 ---
 I don't regularly have instagram on my phone, I usually only download it to do someting specific, like post, or reply to a message, or something like that. But I swear every time I have downloaded it, it gets more and more toxic. The biggest thing that bothers me is just how polarizing all the posts are. Maybe I was just in an echo chamber when I was younger, but now it just seems like every post has some absolute war going on in the comments. And it really doesn't seem to matter what the post is about. It could be something wildly controversial like the election, or it can just be someone showing how they made their meal and they'll be someone in there to make a comment about it. 
