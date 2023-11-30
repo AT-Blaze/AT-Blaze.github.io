@@ -22,7 +22,6 @@ Idk how desperately i need to update my computer but I've been thinking about it
 &nbsp;
 
 I definitely want to get a new CPU Cooler. Thats the fan that cools the CPU. The CoolerMaster basic CPU fan is pretty nice, its only like 30 or 40$ and it would do the trick. It has quiet fans which is nice becuase mine makes an annoying hum, and I like the way the fan is pointing in the CoolerMaster one. Black would probably be good.
-
 &nbsp;
 
 I also wouldnt mind a mouse pad or a keybaord. I think I am  in the market for a new mechanical keyboard. Mine takes up a lot of room and its sort of annoying. ReDragon has some cool inexpensive ones, they also have hotswappable switches which is nice. I had been considering getting low profile clicky switches/keys but after trying the ReDragon keys i think mine are just bad and its not the switches. For a mousepad, probably anything is fine honestly, maybe one on the slightly bigger side just so it covers my mouse area, usually gaming mouse pads are bigger than like office ones, but I probably wouldnt get one the size of the entire desk very likely.
