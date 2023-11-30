@@ -1,6 +1,6 @@
 ---
 title: "Christmas List?"
-draft: true
+draft: false
 ---
 For the people wondering what to get me that don't know what I like, or what I'm up to these days, here are some updates about me.
 
