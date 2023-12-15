@@ -20,6 +20,8 @@ menu:
           weight: 10
         - name: Christmas List?
           url: xmas-list
+        - name: Parker Chirps
+          url: parker
 params:
     homeInfoParams:
         Title: Hi! Welcome to my blog...
@@ -32,6 +34,46 @@ params:
           url: "https://www.instagram.com/boulder.blaze/"
         - name: "linkedin"
           url: "https://www.linkedin.com/in/antranig-douglas"
+
+markup:
+  goldmark:
+    extensions:
+      cjk:
+        eastAsianLineBreaks: false
+        eastAsianLineBreaksStyle: simple
+        enable: false
+        escapedSpace: false
+      definitionList: true
+      footnote: true
+      linkify: true
+      linkifyProtocol: https
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer:
+        apostrophe: '&rsquo;'
+        disable: false
+        ellipsis: '&hellip;'
+        emDash: '&mdash;'
+        enDash: '&ndash;'
+        leftAngleQuote: '&laquo;'
+        leftDoubleQuote: '&ldquo;'
+        leftSingleQuote: '&lsquo;'
+        rightAngleQuote: '&raquo;'
+        rightDoubleQuote: '&rdquo;'
+        rightSingleQuote: '&rsquo;'
+    parser:
+      attribute:
+        block: false
+        title: true
+      autoHeadingID: true
+      autoHeadingIDType: github
+      wrapStandAloneImageWithinParagraph: true
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xhtml: false
+
 
 #params:
 #    profileMode:
