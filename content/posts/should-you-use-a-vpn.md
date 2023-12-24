@@ -1,8 +1,8 @@
 ---
 title: "Should you use a VPN?"
+date: 2023-12-24T02:48:32
 draft: false
 ---
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -54,6 +54,7 @@ const apiKey = '2559268d50eada'
 	}
 	getIpAddress();
 </script>
+(If you don't see much here then your browser or an extension is blocking some or all of the javascript i've written, good!)
 _______________________________________________
 
 I personally think that info above is pretty spooky for just anyone to have. Of course its not that big of a deal for something like amazon to have, obviosly they will need to know where you are browsing from. And of course, your screen size, that will be relevant to any streaming service that wants to know what size movie they can show you. 
