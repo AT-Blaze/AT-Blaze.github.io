@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>academics on Blaze Blogs</title>
+    <link>https://github.com/AT-Blaze/AT-Blaze.github.io.git/tags/academics/</link>
+    <description>Recent content in academics on Blaze Blogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Aug 2023 10:00:27 -0400</lastBuildDate><atom:link href="https://github.com/AT-Blaze/AT-Blaze.github.io.git/tags/academics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Heart Rate Variability in Anxiety Disorders and Implications for Current and Future Therapeutic Interventions</title>
+      <link>https://github.com/AT-Blaze/AT-Blaze.github.io.git/academics/hrv-and-therapy/</link>
+      <pubDate>Mon, 14 Aug 2023 10:00:27 -0400</pubDate>
+      
+      <guid>https://github.com/AT-Blaze/AT-Blaze.github.io.git/academics/hrv-and-therapy/</guid>
+      <description>Here is a paper I wrote for my cognition class about heart rate variability and the implications the current research has on the creation and usage of therapeutic interventions. Mostly I focused on the data that existed for various different age groups, spanning from adolesence to geriatric subjects. The field as a whole, as it appears, is moving away from heart rate variability measures and instead favoring more reliable metrics that might infer the same things.</description>
+    </item>
+    
+    <item>
+      <title>Case Study on Lowell Massachusetts</title>
+      <link>https://github.com/AT-Blaze/AT-Blaze.github.io.git/academics/lowell-macro/</link>
+      <pubDate>Sun, 13 Aug 2023 10:00:27 -0400</pubDate>
+      
+      <guid>https://github.com/AT-Blaze/AT-Blaze.github.io.git/academics/lowell-macro/</guid>
+      <description>Bellow is a pdf of a paper I wrote on Lowell, Massachusetts. It was first written and submitted as a two part assignment in a Cirtical Race Theory class. I have edited the paper for grammatical purposes before uploading it here.
+&lt;!DOCTYPE html&gt; Title </description>
+    </item>
+    
+    <item>
+      <title>Poster on Heart Rate Regulation in Children With and Without Internalizing Disorders</title>
+      <link>https://github.com/AT-Blaze/AT-Blaze.github.io.git/academics/poster/</link>
+      <pubDate>Tue, 23 May 2023 10:00:27 -0400</pubDate>
+      
+      <guid>https://github.com/AT-Blaze/AT-Blaze.github.io.git/academics/poster/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>
