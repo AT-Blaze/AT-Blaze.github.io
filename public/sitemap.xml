@@ -2,47 +2,80 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/AT-Blaze/AT-Blaze.github.io.git/academics/</loc>
+    <loc>server/</loc>
+    <lastmod>2023-12-24T02:48:32+00:00</lastmod>
+  </url><url>
+    <loc>server/posts/</loc>
+    <lastmod>2023-12-24T02:48:32+00:00</lastmod>
+  </url><url>
+    <loc>server/posts/should-you-use-a-vpn/</loc>
+    <lastmod>2023-12-24T02:48:32+00:00</lastmod>
+  </url><url>
+    <loc>server/tags/social-media/</loc>
+    <lastmod>2023-09-03T08:48:32-04:00</lastmod>
+  </url><url>
+    <loc>server/posts/social-media-moment/</loc>
+    <lastmod>2023-09-03T08:48:32-04:00</lastmod>
+  </url><url>
+    <loc>server/tags/</loc>
+    <lastmod>2023-09-03T08:48:32-04:00</lastmod>
+  </url><url>
+    <loc>server/posts/cinaroll/</loc>
+    <lastmod>2023-08-14T22:48:32-04:00</lastmod>
+  </url><url>
+    <loc>server/tags/fitness/</loc>
+    <lastmod>2023-08-14T22:48:32-04:00</lastmod>
+  </url><url>
+    <loc>server/tags/recipes/</loc>
+    <lastmod>2023-08-14T22:48:32-04:00</lastmod>
+  </url><url>
+    <loc>server/tags/academics/</loc>
+    <lastmod>2023-08-14T10:00:27-04:00</lastmod>
+  </url><url>
+    <loc>server/academics/</loc>
+    <lastmod>2023-08-14T10:00:27-04:00</lastmod>
+  </url><url>
+    <loc>server/academics/hrv-and-therapy/</loc>
+    <lastmod>2023-08-14T10:00:27-04:00</lastmod>
+  </url><url>
+    <loc>server/academics/lowell-macro/</loc>
     <lastmod>2023-08-13T10:00:27-04:00</lastmod>
   </url><url>
-    <loc>https://github.com/AT-Blaze/AT-Blaze.github.io.git/</loc>
-    <lastmod>2023-08-13T10:00:27-04:00</lastmod>
-  </url><url>
-    <loc>https://github.com/AT-Blaze/AT-Blaze.github.io.git/academics/lowell-macro/</loc>
-    <lastmod>2023-08-13T10:00:27-04:00</lastmod>
-  </url><url>
-    <loc>https://github.com/AT-Blaze/AT-Blaze.github.io.git/tags/audio/</loc>
+    <loc>server/tags/audio/</loc>
     <lastmod>2023-07-09T11:20:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/AT-Blaze/AT-Blaze.github.io.git/posts/</loc>
+    <loc>server/posts/thoughts-on-subway-surfer/</loc>
     <lastmod>2023-07-09T11:20:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/AT-Blaze/AT-Blaze.github.io.git/tags/</loc>
-    <lastmod>2023-07-09T11:20:00+00:00</lastmod>
-  </url><url>
-    <loc>https://github.com/AT-Blaze/AT-Blaze.github.io.git/posts/thoughts-on-subway-surfer/</loc>
-    <lastmod>2023-07-09T11:20:00+00:00</lastmod>
-  </url><url>
-    <loc>https://github.com/AT-Blaze/AT-Blaze.github.io.git/posts/podcast-on-stoicism/</loc>
+    <loc>server/posts/podcast-on-stoicism/</loc>
     <lastmod>2023-06-25T23:20:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/AT-Blaze/AT-Blaze.github.io.git/tags/stoicism/</loc>
+    <loc>server/tags/stoicism/</loc>
     <lastmod>2023-06-25T23:20:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/AT-Blaze/AT-Blaze.github.io.git/posts/healthy-or-concious/</loc>
+    <loc>server/posts/healthy-or-concious/</loc>
     <lastmod>2023-05-23T10:00:27-04:00</lastmod>
   </url><url>
-    <loc>https://github.com/AT-Blaze/AT-Blaze.github.io.git/academics/poster/</loc>
+    <loc>server/academics/bsn-poster/</loc>
     <lastmod>2023-05-23T10:00:27-04:00</lastmod>
   </url><url>
-    <loc>https://github.com/AT-Blaze/AT-Blaze.github.io.git/posts/contemplating-normalcy/</loc>
+    <loc>server/academics/ura-poster/</loc>
+    <lastmod>2023-05-23T10:00:27-04:00</lastmod>
+  </url><url>
+    <loc>server/posts/contemplating-normalcy/</loc>
     <lastmod>2023-05-16T21:00:27-04:00</lastmod>
   </url><url>
-    <loc>https://github.com/AT-Blaze/AT-Blaze.github.io.git/posts/stoicism-in-social-media/</loc>
+    <loc>server/posts/stoicism-in-social-media/</loc>
     <lastmod>2023-04-28T21:00:27-04:00</lastmod>
   </url><url>
-    <loc>https://github.com/AT-Blaze/AT-Blaze.github.io.git/about/</loc>
+    <loc>server/gym/</loc>
   </url><url>
-    <loc>https://github.com/AT-Blaze/AT-Blaze.github.io.git/series/</loc>
+    <loc>server/about/</loc>
+  </url><url>
+    <loc>server/xmas-list/</loc>
+  </url><url>
+    <loc>server/parker/</loc>
+  </url><url>
+    <loc>server/series/</loc>
   </url>
 </urlset>
