@@ -18,8 +18,8 @@ menu:
         - name: Academics
           url: academics #points to the academics folder in content/
           weight: 10
-        - name: Christmas List?
-          url: xmas-list
+#        - name: Christmas List?
+#          url: xmas-list
         - name: Parker Chirps
           url: parker
 params:
