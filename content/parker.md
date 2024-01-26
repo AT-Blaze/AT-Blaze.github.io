@@ -53,7 +53,7 @@ draft: false
     // Function to update the number with a flashing effect
     function flashNumber() {
         const numberElement = document.getElementById('flashingNumber');
-        let chirps = 12;
+        let chirps = 14;
 
         // Use setInterval to change the number color at regular intervals
         const intervalId = setInterval(() => {
