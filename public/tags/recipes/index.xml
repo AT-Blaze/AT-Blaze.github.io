@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>recipes on Blaze Blogs</title>
-    <link>server/tags/recipes/</link>
-    <description>Recent content in recipes on Blaze Blogs</description>
+    <title>Recipes on Blaze Blogs</title>
+    <link>http://localhost:40893/AT-Blaze/AT-Blaze.github.io.git/tags/recipes/</link>
+    <description>Recent content in Recipes on Blaze Blogs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Aug 2023 22:48:32 -0400</lastBuildDate><atom:link href="server/tags/recipes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Aug 2023 22:48:32 -0400</lastBuildDate><atom:link href="http://localhost:40893/AT-Blaze/AT-Blaze.github.io.git/tags/recipes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A cinnamon roll recipe I tried</title>
-      <link>server/posts/cinaroll/</link>
+      <link>http://localhost:40893/AT-Blaze/AT-Blaze.github.io.git/posts/cinaroll/</link>
       <pubDate>Mon, 14 Aug 2023 22:48:32 -0400</pubDate>
       
-      <guid>server/posts/cinaroll/</guid>
+      <guid>http://localhost:40893/AT-Blaze/AT-Blaze.github.io.git/posts/cinaroll/</guid>
       <description>Today I tried a recipe that I found online. It&amp;rsquo;s actually the second time I&amp;rsquo;m trying it, and its the second time its been bad&amp;hellip;
 When I woke up I was craving whatever the flavor of this cinnamon roll is, so I tried to give it a second chance. It was just as I suspected&amp;hellip; It hit the spot, but god it is not a cinnamon roll.
 The recipe calls for flour, greek yogurt, and protein powder, all mixed together to make a dough.</description>
