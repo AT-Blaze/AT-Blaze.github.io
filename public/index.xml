@@ -175,6 +175,100 @@ Here&amp;rsquo;s a little segment that includes my thoughts on stoicism, how it 
     </item>
     
     <item>
+      <title>Check your self...</title>
+      <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/writing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/writing/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en&#34;&gt;
+&lt;head&gt;
+    &lt;meta charset=&#34;UTF-8&#34;&gt;
+    &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt;
+    &lt;title&gt;Readability Metrics&lt;/title&gt;
+    &lt;style&gt;
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        #editable {
+            border: 1px solid #ccc;
+            padding: 10px;
+            min-height: 150px;
+            width: 100%;
+            max-width: 800px;
+            margin-bottom: 20px;
+        }
+        #metrics {
+            font-size: 16px;
+            background-color: #f9f9f9;
+            padding: 10px;
+            border: 1px solid #ddd;
+            width: 100%;
+            max-width: 800px;
+        }
+    &lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;h1&gt;Readability Metrics&lt;/h1&gt;
+    &lt;div id=&#34;editable&#34; contenteditable=&#34;true&#34;&gt;
+        Type or paste text here to calculate readability metrics...
+    &lt;/div&gt;
+    &lt;div id=&#34;metrics&#34;&gt;
+        &lt;strong&gt;Metrics:&lt;/strong&gt;
+        &lt;div id=&#34;fleschScore&#34;&gt;Flesch Reading Ease: &lt;/div&gt;
+        &lt;div id=&#34;wordsPerSentence&#34;&gt;Words per Sentence: &lt;/div&gt;
+        &lt;div id=&#34;syllablesPer100Words&#34;&gt;Syllables per 100 Words: &lt;/div&gt;
+    &lt;/div&gt;
+   &lt;script&gt;
+        function countSyllables(word) {
+            word = word.toLowerCase();
+            if (word.length &lt;= 3) return 1;
+            word = word.replace(/(?:[^laeiouy]es|ed|[^laeiouy]e)$/, &#39;&#39;);
+            word = word.replace(/^y/, &#39;&#39;);
+            const matches = word.match(/[aeiouy]{1,2}/g);
+            return matches ? matches.length : 1;
+        }
+
+        function calculateMetrics(text) {
+            const sentences = text.match(/[^.!?]+[.!?]+/g) || [text];
+            const words = text.match(/\b\w+\b/g) || [];
+            const syllables = words.reduce((count, word) =&gt; count + countSyllables(word), 0);
+
+            const totalSentences = sentences.length;
+            const totalWords = words.length;
+
+            const wordsPerSentence = totalWords / totalSentences;
+            const syllablesPer100Words = (syllables / totalWords) * 100;
+
+            const fleschScore = 206.835 - (1.015 * wordsPerSentence) - (84.6 * (syllables / totalWords));
+
+            return {
+                fleschScore: fleschScore.toFixed(2),
+                wordsPerSentence: wordsPerSentence.toFixed(2),
+                syllablesPer100Words: syllablesPer100Words.toFixed(2)
+            };
+        }
+
+        function updateMetrics() {
+            const text = document.getElementById(&#39;editable&#39;).innerText;
+            const metrics = calculateMetrics(text);
+
+            document.getElementById(&#39;fleschScore&#39;).innerText = `Flesch Reading Ease: ${metrics.fleschScore}`;
+            document.getElementById(&#39;wordsPerSentence&#39;).innerText = `Words per Sentence: ${metrics.wordsPerSentence}`;
+            document.getElementById(&#39;syllablesPer100Words&#39;).innerText = `Syllables per 100 Words: ${metrics.syllablesPer100Words}`;
+        }
+
+        document.getElementById(&#39;editable&#39;).addEventListener(&#39;input&#39;, updateMetrics);
+
+        // Initial calculation
+        updateMetrics();
+    &lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
+    </item>
+    
+    <item>
       <title>Parker Chirps Since Silly Season</title>
       <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/parker-test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -245,6 +339,122 @@ Here&amp;rsquo;s a little segment that includes my thoughts on stoicism, how it 
 
     // Call the function to start the flashing effect
     flashNumber();
+&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
+    </item>
+    
+    <item>
+      <title>Parker Chirps Since Silly Season</title>
+      <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/temp-writing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/temp-writing/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en&#34;&gt;
+&lt;head&gt;
+	&lt;meta charset=&#34;UTF-8&#34;&gt;
+	&lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;div contenteditable=&#34;true&#34;&gt;
+	Write here...
+&lt;/div&gt;
+&lt;div id=readibility&gt;&lt;/div&gt;
+&lt;script&gt; 
+function () {
+    &#39;use strict&#39;;
+
+    // Utility function to count syllables in a word
+    function countSyllables(word) {
+        word = word.toLowerCase();
+        if (word.length &lt;= 3) return 1; // Short words typically have one syllable
+        word = word.replace(/(?:[^laeiouy]es|ed|[^laeiouy]e)$/, &#39;&#39;);
+        word = word.replace(/^y/, &#39;&#39;);
+        const matches = word.match(/[aeiouy]{1,2}/g);
+        return matches ? matches.length : 1;
+    }
+
+    // Function to calculate readability metrics
+    function calculateMetrics(text) {
+        const sentences = text.match(/[^.!?]+[.!?]+/g) || [text];
+        const words = text.match(/\b\w+\b/g) || [];
+        const syllables = words.reduce((count, word) =&gt; count + countSyllables(word), 0);
+
+        const totalSentences = sentences.length;
+        const totalWords = words.length;
+
+        const wordsPerSentence = totalWords / totalSentences;
+        const syllablesPer100Words = (syllables / totalWords) * 100;
+
+        // Flesch reading ease score
+        const fleschScore = 206.835 - (1.015 * wordsPerSentence) - (84.6 * (syllables / totalWords));
+
+        return {
+            fleschScore: fleschScore.toFixed(2),
+            wordsPerSentence: wordsPerSentence.toFixed(2),
+            syllablesPer100Words: syllablesPer100Words.toFixed(2),
+        };
+    }
+
+    // Function to create and display the metrics box
+    function createMetricsBox(metrics) {
+        const metricsBox = document.createElement(&#39;div&#39;);
+        metricsBox.style.position = &#39;fixed&#39;;
+        metricsBox.style.bottom = &#39;10px&#39;;
+        metricsBox.style.right = &#39;10px&#39;;
+        metricsBox.style.padding = &#39;10px&#39;;
+        metricsBox.style.backgroundColor = &#39;rgba(0, 0, 0, 0.8)&#39;;
+        metricsBox.style.color = &#39;white&#39;;
+        metricsBox.style.borderRadius = &#39;5px&#39;;
+        metricsBox.style.fontSize = &#39;14px&#39;;
+        metricsBox.style.zIndex = &#39;10000&#39;;
+        metricsBox.style.border = &#39;2px solid red&#39;; // Debug styling
+
+        // Safely set innerHTML to avoid errors
+        const safeMetrics = {
+            fleschScore: metrics.fleschScore || &#39;N/A&#39;,
+            wordsPerSentence: metrics.wordsPerSentence || &#39;N/A&#39;,
+            syllablesPer100Words: metrics.syllablesPer100Words || &#39;N/A&#39;,
+        };
+
+        try {
+            metricsBox.innerHTML = `
+                &lt;strong&gt;Readability Metrics&lt;/strong&gt;&lt;br&gt;
+                Flesch Score: ${safeMetrics.fleschScore}&lt;br&gt;
+                Words per Sentence: ${safeMetrics.wordsPerSentence}&lt;br&gt;
+                Syllables per 100 Words: ${safeMetrics.syllablesPer100Words}
+            `;
+            document.body.appendChild(metricsBox);
+            console.log(&#39;Metrics box successfully appended:&#39;, safeMetrics);
+        } catch (e) {
+            console.error(&#39;Error rendering metrics box:&#39;, e);
+        }
+    }
+
+    // Extract text content from the page
+    function getPageText() {
+        const textarea = document.querySelector(&#39;#textbox&#39;);
+        const textareaText = textarea ? textarea.value : &#39;&#39;;
+        const bodyText = document.body.innerText || &#39;&#39;;
+        return `${textareaText}\n${bodyText}`.trim();
+    }
+
+    // Main execution
+    try {
+        const pageText = getPageText();
+        console.log(&#39;Extracted text:&#39;, pageText);
+
+        const metrics = calculateMetrics(pageText);
+        console.log(&#39;Calculated metrics:&#39;, metrics);
+
+        createMetricsBox(metrics);
+    } catch (error) {
+        console.error(&#39;Error during script execution:&#39;, error);
+    }
+})();
+
+//createMetricsBox();
 &lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;</description>

@@ -5,24 +5,24 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="noindex, nofollow">
-<title>Check your self... | Blaze Blogs</title>
+<title>Parker Chirps Since Silly Season | Blaze Blogs</title>
 <meta name="keywords" content="">
 <meta name="description" content="&lt;!DOCTYPE html&gt;
 
 
     
     
+    Readability Metrics
     
 
 
-    
+    Readability Metrics
     
         Type or paste text here to calculate readability metrics...
     
     
         Metrics:
         Flesch Reading Ease: 
-        Grade Level: 
         Words per Sentence: 
         Syllables per 100 Words: 
     
@@ -30,7 +30,7 @@
 
 ">
 <meta name="author" content="">
-<link rel="canonical" href="http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/writing/">
+<link rel="canonical" href="http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/copy-writing/">
 <link crossorigin="anonymous" href="http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/AT-Blaze/AT-Blaze.github.io.git/assets/css/stylesheet.3613efbd0b1772781e8f49935e973cae632a7f61471c05b17be155505ccf87b5.css" integrity="sha256-NhPvvQsXcngej0mTXpc8rmMqf2FHHAWxe&#43;FVUFzPh7U=" rel="preload stylesheet" as="style">
 <script defer crossorigin="anonymous" src="http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/AT-Blaze/AT-Blaze.github.io.git/assets/js/highlight.f413e19d0714851f6474e7ee9632408e58ac146fbdbe62747134bea2fa3415e0.js" integrity="sha256-9BPhnQcUhR9kdOfuljJAjlisFG&#43;9vmJ0cTS&#43;ovo0FeA="
     onload="hljs.initHighlightingOnLoad();"></script>
@@ -41,7 +41,7 @@
 <link rel="mask-icon" href="http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/writing/">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/copy-writing/">
 <noscript>
     <style>
         #theme-toggle,
@@ -142,7 +142,7 @@
   <header class="post-header">
     
     <h1 class="post-title">
-      Check your self...
+      Parker Chirps Since Silly Season
     </h1>
     <div class="post-meta">
 
@@ -153,6 +153,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Readability Metrics</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -177,14 +178,13 @@
     </style>
 </head>
 <body>
-    <h1></h1>
+    <h1>Readability Metrics</h1>
     <div id="editable" contenteditable="true">
         Type or paste text here to calculate readability metrics...
     </div>
     <div id="metrics">
         <strong>Metrics:</strong>
         <div id="fleschScore">Flesch Reading Ease: </div>
-        <div id="gradeLevel">Grade Level: </div>
         <div id="wordsPerSentence">Words per Sentence: </div>
         <div id="syllablesPer100Words">Syllables per 100 Words: </div>
     </div>
@@ -211,11 +211,8 @@
 
             const fleschScore = 206.835 - (1.015 * wordsPerSentence) - (84.6 * (syllables / totalWords));
 
-            const gradeLevel = (0.39 * wordsPerSentence) + (11.8 * (syllables / totalWords)) - 15.59;
-
             return {
                 fleschScore: fleschScore.toFixed(2),
-                gradeLevel: gradeLevel.toFixed(2),
                 wordsPerSentence: wordsPerSentence.toFixed(2),
                 syllablesPer100Words: syllablesPer100Words.toFixed(2)
             };
@@ -226,7 +223,6 @@
             const metrics = calculateMetrics(text);
 
             document.getElementById('fleschScore').innerText = `Flesch Reading Ease: ${metrics.fleschScore}`;
-            document.getElementById('gradeLevel').innerText = `Grade Level: ${metrics.gradeLevel}`;
             document.getElementById('wordsPerSentence').innerText = `Words per Sentence: ${metrics.wordsPerSentence}`;
             document.getElementById('syllablesPer100Words').innerText = `Syllables per 100 Words: ${metrics.syllablesPer100Words}`;
         }
@@ -236,8 +232,6 @@
         // Initial calculation
         updateMetrics();
     </script>
-<p><img loading="lazy" src="http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/images/Flesch-Reading-Ease-Guide.png" alt="oops"  />
-</p>
 </body>
 </html>
 
