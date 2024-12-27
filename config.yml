@@ -18,8 +18,8 @@ menu:
 #        - name: Academics
 #          url: academics #points to the academics folder in content/
 #          weight: 10
-        - name: Parker Chirps
-          url: parker-test
+#        - name: Parker Chirps
+#          url: parker-test
 params:
     homeInfoParams:
         Title: BlazeBlogs is getting a makeover...

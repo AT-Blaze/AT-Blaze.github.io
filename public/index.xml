@@ -13,7 +13,14 @@
       <pubDate>Fri, 12 Apr 2024 22:10:00 -0400</pubDate>
       
       <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/the-makeover/</guid>
-      <description>I literallly dont know if makeover is one or two words. anyway, here it is</description>
+      <description>&lt;p&gt;&lt;figure class=&#34;audio&#34;&gt;
+&lt;audio controls preload=&#34;metadata&#34;&gt;
+&lt;source src=&#34;http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/audio/makeover.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+&lt;/audio&gt;
+
+&lt;/figure&gt;
+
+I literallly dont know if makeover is one or two words. anyway, here it is&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -22,8 +29,48 @@
       <pubDate>Sun, 24 Dec 2023 02:48:32 +0000</pubDate>
       
       <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/should-you-use-a-vpn/</guid>
-      <description>Screen and Browser Information (If you don&amp;rsquo;t see much here then your browser or an extension is blocking some or all of the javascript i&amp;rsquo;ve written, good!)
-I personally think that info above is pretty spooky for just anyone to have. Of course its not that big of a deal for something like amazon to have, obviosly they will need to know where you are browsing from. And of course, your screen size, that will be relevant to any streaming service that wants to know what size movie they can show you.</description>
+      <description>&lt;html lang=&#34;en&#34;&gt;
+&lt;head&gt;
+    &lt;meta charset=&#34;UTF-8&#34;&gt;
+    &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt;
+    &lt;title&gt;Screen and Browser Information&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;div id=&#34;ip-container&#34;&gt;&lt;/div&gt; 
+&lt;div id=&#34;info-container&#34;&gt;&lt;/div&gt; 
+&lt;script&gt;
+    // Function to get and display screen and browser information
+    function displayInfo() {
+        // Get screen information
+        const screenWidth = window.screen.width;
+        const screenHeight = window.screen.height;
+
+        // Get browser information
+        const browserName = navigator.appName;
+        const browserVersion = navigator.appVersion;
+		
+        // Display information in the container
+        const infoContainer = document.getElementById(&#39;info-container&#39;);
+        infoContainer.innerHTML = `
+            &lt;p&gt;Your screen size: ${screenWidth} x ${screenHeight}&lt;/p&gt;
+            &lt;p&gt;Your browser: ${browserName} ${browserVersion}&lt;/p&gt;
+        `;
+    }
+
+    displayInfo();
+
+const apiKey = &#39;2559268d50eada&#39;
+
+	function getIpAddress() {
+    	fetch(&#39;https://ipinfo.io?token=2559268d50eada&#39;)
+        	.then(response =&gt; response.json())
+        	.then(data =&gt; {
+            	// Extract and display the IP address from the response
+            	const ip = data.ip || &#39;unknown&#39;;
+				const city = data.city || &#39;unknown&#39;;
+				const ipContainer = document.getElementById(&#39;ip-container&#39;);
+				ipContainer.innerHTML = `
+					&lt;p&gt;Your apparent location: ${city}&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -32,7 +79,7 @@ I personally think that info above is pretty spooky for just anyone to have. Of 
       <pubDate>Sun, 03 Sep 2023 08:48:32 -0400</pubDate>
       
       <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/social-media-moment/</guid>
-      <description>I don&amp;rsquo;t regularly have instagram on my phone, I usually only download it to do someting specific, like post, or reply to a message, or something like that. But I swear every time I have downloaded it, it gets more and more toxic. The biggest thing that bothers me is just how polarizing all the posts are. Maybe I was just in an echo chamber when I was younger, but now it just seems like every post has some absolute war going on in the comments.</description>
+      <description>&lt;p&gt;I don&amp;rsquo;t regularly have instagram on my phone, I usually only download it to do someting specific, like post, or reply to a message, or something like that. But I swear every time I have downloaded it, it gets more and more toxic. The biggest thing that bothers me is just how polarizing all the posts are. Maybe I was just in an echo chamber when I was younger, but now it just seems like every post has some absolute war going on in the comments. And it really doesn&amp;rsquo;t seem to matter what the post is about. It could be something wildly controversial like the election, or it can just be someone showing how they made their meal and they&amp;rsquo;ll be someone in there to make a comment about it.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -41,9 +88,9 @@ I personally think that info above is pretty spooky for just anyone to have. Of 
       <pubDate>Mon, 14 Aug 2023 22:48:32 -0400</pubDate>
       
       <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/cinaroll/</guid>
-      <description>Today I tried a recipe that I found online. It&amp;rsquo;s actually the second time I&amp;rsquo;m trying it, and its the second time its been bad&amp;hellip;
-When I woke up I was craving whatever the flavor of this cinnamon roll is, so I tried to give it a second chance. It was just as I suspected&amp;hellip; It hit the spot, but god it is not a cinnamon roll.
-The recipe calls for flour, greek yogurt, and protein powder, all mixed together to make a dough.</description>
+      <description>&lt;p&gt;Today I tried a recipe that I found online. It&amp;rsquo;s actually the second time I&amp;rsquo;m trying it, and its the second time its been bad&amp;hellip;&lt;/p&gt;
+&lt;p&gt;When I woke up I was craving whatever the flavor of this cinnamon roll is, so I tried to give it a second chance. It was just as I suspected&amp;hellip; It hit the spot, but god it is not a cinnamon roll.&lt;/p&gt;
+&lt;p&gt;The recipe calls for flour, greek yogurt, and protein powder, all mixed together to make a dough. Then you melt butter, mix it with cinnamon, brown sugar, and spread it on the dough. Then you roll up the dough, cut it into pieces, and then bake the little pieces into rolls. Then you whip up some cottage cheese, almond milk, and vanilla extract, to make the frosting.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -52,8 +99,15 @@ The recipe calls for flour, greek yogurt, and protein powder, all mixed together
       <pubDate>Sun, 09 Jul 2023 11:20:00 +0000</pubDate>
       
       <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/thoughts-on-subway-surfer/</guid>
-      <description>I am congested, sorry. Also I sound very mean, I swear I&amp;rsquo;m not.
-Here&amp;rsquo;s a little thing about the use of video overlays like Subway Surfer or Family Guy over online content. I think I&amp;rsquo;m generally against the idea as it feels like a disctraction but by the end of this I started to wonder if having a small distraction like this might be worse than fully focusing on the video, but still better than all together losing interest in the video?</description>
+      <description>&lt;p&gt;&lt;figure class=&#34;something&#34;&gt;
+&lt;audio controls preload=&#34;metadata&#34;&gt;
+&lt;source src=&#34;http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/audio/podcast2.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+&lt;/audio&gt;
+
+&lt;/figure&gt;
+
+I am congested, sorry. Also I sound very mean, I swear I&amp;rsquo;m not.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s a little thing about the use of video overlays like Subway Surfer or Family Guy over online content. I think I&amp;rsquo;m generally against the idea as it feels like a disctraction but by the end of this I started to wonder if having a small distraction like this might be worse than fully focusing on the video, but still better than all together losing interest in the video? But as I am writing this my recording is playing in the background and god I cannot focus&amp;hellip;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -62,7 +116,14 @@ Here&amp;rsquo;s a little thing about the use of video overlays like Subway Surf
       <pubDate>Sun, 25 Jun 2023 23:20:00 +0000</pubDate>
       
       <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/podcast-on-stoicism/</guid>
-      <description>Here&amp;rsquo;s a little segment that includes my thoughts on stoicism, how it is used as a means to financial or material gain, and how that might be contradictory to the foundations of the philosophy. It&amp;rsquo;s a lot of rambling, but I didn&amp;rsquo;t want to type it all out so this is what we get mwahhhahahah.</description>
+      <description>&lt;p&gt;&lt;figure class=&#34;something&#34;&gt;
+&lt;audio controls preload=&#34;metadata&#34;&gt;
+&lt;source src=&#34;http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/audio/podcast1.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+&lt;/audio&gt;
+
+&lt;/figure&gt;
+
+Here&amp;rsquo;s a little segment that includes my thoughts on stoicism, how it is used as a means to financial or material gain, and how that might be contradictory to the foundations of the philosophy. It&amp;rsquo;s a lot of rambling, but I didn&amp;rsquo;t want to type it all out so this is what we get mwahhhahahah.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -71,7 +132,7 @@ Here&amp;rsquo;s a little thing about the use of video overlays like Subway Surf
       <pubDate>Tue, 23 May 2023 10:00:27 -0400</pubDate>
       
       <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/healthy-or-concious/</guid>
-      <description>Recently I was thinking about when people make health decisions, like to cut out carbs, or to go vegan. Often they say they feel pretty good. On the other hand there&amp;rsquo;s often the argument that &amp;ldquo;you don&amp;rsquo;t want to be skinny, you want the feeling that you think you&amp;rsquo;ll have when you&amp;rsquo;re skinny&amp;rdquo; which I think is pretty interesting. Obviously not everyone is making health decisions to be skinny, but it seems across the board that it generally seems to be a positive thing for the peope making the change.</description>
+      <description>&lt;p&gt;Recently I was thinking about when people make health decisions, like to cut out carbs, or to go vegan. Often they say they feel pretty good. On the other hand there&amp;rsquo;s often the argument that &amp;ldquo;you don&amp;rsquo;t want to be skinny, you want the feeling that you &lt;em&gt;think&lt;/em&gt; you&amp;rsquo;ll have when you&amp;rsquo;re skinny&amp;rdquo; which I think is pretty interesting. Obviously not everyone is making health decisions to be skinny, but it seems across the board that it generally seems to be a positive thing for the peope making the change.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -80,7 +141,7 @@ Here&amp;rsquo;s a little thing about the use of video overlays like Subway Surf
       <pubDate>Tue, 16 May 2023 21:00:27 -0400</pubDate>
       
       <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/contemplating-normalcy/</guid>
-      <description>The other day I was driving home and I was thinking about how normal I feel. I feel like on average I assume that I&amp;rsquo;m smack in the middle of the bell curve (I haven&amp;rsquo;t added a comment box yet so you all can&amp;rsquo;t tell me where you think I fall, I don&amp;rsquo;t need that kind of negativity in my life). Anyway, my point with this is how predicatble I feel becuase of this.</description>
+      <description>&lt;p&gt;The other day I was driving home and I was thinking about how normal I feel. I feel like on average I assume that I&amp;rsquo;m smack in the middle of the bell curve (I haven&amp;rsquo;t added a comment box yet so you all can&amp;rsquo;t tell me where you think I fall, I don&amp;rsquo;t need that kind of negativity in my life). Anyway, my point with this is how predicatble I feel becuase of this. Like&amp;hellip; I am just normal, if you make a guess about me based on &amp;ldquo;normal development&amp;rdquo; you&amp;rsquo;re probably going to be right.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -89,8 +150,8 @@ Here&amp;rsquo;s a little thing about the use of video overlays like Subway Surf
       <pubDate>Fri, 28 Apr 2023 21:00:27 -0400</pubDate>
       
       <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/stoicism-in-social-media/</guid>
-      <description>When I was a sophomore I took a class called biopsychology where I sat next to a girl writing her honors thesis on philosophy in American media. I have since lost touch with her but I still thing about her ideas regularly. One aspect of philosophy that her and I particularly discussed was stoicism. It’s an aspect of philosophy that has taken over, at least in my circles.
-I frequently see it present in gym culture, a subculture I spend a fair bit of time in.</description>
+      <description>&lt;p&gt;When I was a sophomore I took a class called biopsychology where I sat next to a girl writing her honors thesis on philosophy in American media. I have since lost touch with her but I still thing about her ideas regularly. One aspect of philosophy that her and I particularly discussed was stoicism. It’s an aspect of philosophy that has taken over, at least in my circles.&lt;/p&gt;
+&lt;p&gt;I frequently see it present in gym culture, a subculture I spend a fair bit of time in. It’s becoming increasingly frustrating for me because it I feel as though a lot of the quotes I see pertaining to stoicism are quite out of context. For example, I see a lot of men posting photos of women, avoiding them like the plague. It’s all about “staying focused” and “keeping your goals in sight.” In itself I don’t think this is the worst idea, but in practice, it seems to be pretty toxic. The way this manifests is men who start to hate women as they slowly pidgeon-hole themselves into echo chambers of other toxic men. If you don’t believe me, check the comments on any Instagram post about stoicism and lifting weights. Click on the profiles. So many people are just assholes.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -99,8 +160,8 @@ I frequently see it present in gym culture, a subculture I spend a fair bit of t
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/gym/</guid>
-      <description>i guess i have to imagine that a lot of my contempt for the gym comes from being self concious but its just easier to complain about the culture than it is to deal with the reality that im not content with my lifestyle or habits.
-but i also think that its somewhat unfair to recognize that as an absolution of the culture itself. I guess ill write this down to see if im actually just a little bitch or if there is something beyond just my self conciousness.</description>
+      <description>&lt;p&gt;i guess i have to imagine that a lot of my contempt for the gym comes from being self concious but its just easier to complain about the culture than it is to deal with the reality that im not content with my lifestyle or habits.&lt;/p&gt;
+&lt;p&gt;but i also think that its somewhat unfair to recognize that as an absolution of the culture itself. I guess ill write this down to see if im actually just a little bitch or if there is something beyond just my self conciousness. But id say that the very self concious feeling i have at the gym is hard to ignore becuase its built into the predatory nature of the marketing as it is. But i guess ill come back to that.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -109,8 +170,8 @@ but i also think that its somewhat unfair to recognize that as an absolution of 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/about/</guid>
-      <description>This is my website where I put all my blog posts. They&amp;rsquo;re just what I think about and also I don&amp;rsquo;t spell check them.
-Additionally, I built this site myself with Hugo so its pretty bad, and also that means that it&amp;rsquo;s not very feature heavy (until I learn how to add them). On the bright side, since I figured out how to add audio files to my site, those exist now!</description>
+      <description>&lt;p&gt;This is my website where I put all my blog posts. They&amp;rsquo;re just what I think about and also I don&amp;rsquo;t spell check them.&lt;/p&gt;
+&lt;p&gt;Additionally, I built this site myself with Hugo so its pretty bad, and also that means that it&amp;rsquo;s not very feature heavy (until I learn how to add them). On the bright side, since I figured out how to add audio files to my site, those exist now!&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -119,16 +180,74 @@ Additionally, I built this site myself with Hugo so its pretty bad, and also tha
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/parker-test/</guid>
-      <description>&lt;!DOCTYPE html&gt; Flashing Number </description>
-    </item>
-    
-    <item>
-      <title>Parker Chirps Since Silly Season</title>
-      <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/parker/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/parker/</guid>
-      <description>&lt;!DOCTYPE html&gt; Flashing Number </description>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en&#34;&gt;
+&lt;head&gt;
+	&lt;meta charset=&#34;UTF-8&#34;&gt;
+	&lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt;
+	&lt;title&gt;Flashing Number&lt;/title&gt;
+	&lt;style&gt;
+	/*
+		body {
+			position: relative;
+			height: 100vh;
+			margin: 0;
+			background-color: #000;
+			color: #fff;
+		}
+	*/
+		#flashingNumber {
+			font-size: 10em;
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			/*transform: translate(-50%, -50%);*/
+			text-align: center;
+			vertical-align: middle;
+			height: 100px;
+			line-height: 100px;
+		}
+	&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;!-- Create a container for the flashing number --&gt;
+&lt;div id=&#34;flashingNumber&#34;&lt;/div&gt;
+&lt;script&gt;
+    // Function to generate a random color in hex format
+    function getRandomColor() {
+        const letters = &#39;0123456789ABCDEF&#39;;
+        let color = &#39;#&#39;;
+        for (let i = 0; i &lt; 6; i++) {
+            color += letters[Math.floor(Math.random() * 16)];
+        }
+        return color;
+    }
+
+    // Function to update the number with a flashing effect
+    function flashNumber() {
+        const numberElement = document.getElementById(&#39;flashingNumber&#39;);
+        let chirps = 9;
+
+        // Use setInterval to change the number color at regular intervals
+        const intervalId = setInterval(() =&gt; {
+            // Set a random color
+            numberElement.style.color = getRandomColor();
+
+            // Update the number (you can use your own logic here)
+            numberElement.innerHTML = chirps;
+
+            // Clear the interval after a certain number of iterations
+            if (count === 20) {
+                clearInterval(intervalId);
+            }
+        }, 100); // Change color every 500 milliseconds (adjust as needed)
+    }
+
+    // Call the function to start the flashing effect
+    flashNumber();
+&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
     </item>
     
   </channel>
