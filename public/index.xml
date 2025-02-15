@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blaze Blogs</title>
-    <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/</link>
+    <link>https://github.com/AT-Blaze/AT-Blaze.github.io.git/</link>
     <description>Recent content on Blaze Blogs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Apr 2024 22:10:00 -0400</lastBuildDate><atom:link href="http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Feb 2025 22:10:00 -0400</lastBuildDate><atom:link href="https://github.com/AT-Blaze/AT-Blaze.github.io.git/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Makeover</title>
-      <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/the-makeover/</link>
+      <link>https://github.com/AT-Blaze/AT-Blaze.github.io.git/posts/the-makeover/</link>
       <pubDate>Fri, 12 Apr 2024 22:10:00 -0400</pubDate>
       
-      <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/the-makeover/</guid>
+      <guid>https://github.com/AT-Blaze/AT-Blaze.github.io.git/posts/the-makeover/</guid>
       <description>&lt;p&gt;&lt;figure class=&#34;audio&#34;&gt;
 &lt;audio controls preload=&#34;metadata&#34;&gt;
-&lt;source src=&#34;http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/audio/makeover.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+&lt;source src=&#34;https://github.com/AT-Blaze/AT-Blaze.github.io.git/audio/makeover.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;/figure&gt;
@@ -25,10 +25,10 @@ I literallly dont know if makeover is one or two words. anyway, here it is&lt;/p
     
     <item>
       <title>Should you use a VPN?</title>
-      <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/should-you-use-a-vpn/</link>
+      <link>https://github.com/AT-Blaze/AT-Blaze.github.io.git/posts/should-you-use-a-vpn/</link>
       <pubDate>Sun, 24 Dec 2023 02:48:32 +0000</pubDate>
       
-      <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/should-you-use-a-vpn/</guid>
+      <guid>https://github.com/AT-Blaze/AT-Blaze.github.io.git/posts/should-you-use-a-vpn/</guid>
       <description>&lt;html lang=&#34;en&#34;&gt;
 &lt;head&gt;
     &lt;meta charset=&#34;UTF-8&#34;&gt;
@@ -75,19 +75,19 @@ const apiKey = &#39;2559268d50eada&#39;
     
     <item>
       <title>Social Media&#39;s gotten kinda foul</title>
-      <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/social-media-moment/</link>
+      <link>https://github.com/AT-Blaze/AT-Blaze.github.io.git/posts/social-media-moment/</link>
       <pubDate>Sun, 03 Sep 2023 08:48:32 -0400</pubDate>
       
-      <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/social-media-moment/</guid>
+      <guid>https://github.com/AT-Blaze/AT-Blaze.github.io.git/posts/social-media-moment/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t regularly have instagram on my phone, I usually only download it to do someting specific, like post, or reply to a message, or something like that. But I swear every time I have downloaded it, it gets more and more toxic. The biggest thing that bothers me is just how polarizing all the posts are. Maybe I was just in an echo chamber when I was younger, but now it just seems like every post has some absolute war going on in the comments. And it really doesn&amp;rsquo;t seem to matter what the post is about. It could be something wildly controversial like the election, or it can just be someone showing how they made their meal and they&amp;rsquo;ll be someone in there to make a comment about it.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>A cinnamon roll recipe I tried</title>
-      <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/cinaroll/</link>
+      <link>https://github.com/AT-Blaze/AT-Blaze.github.io.git/posts/cinaroll/</link>
       <pubDate>Mon, 14 Aug 2023 22:48:32 -0400</pubDate>
       
-      <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/cinaroll/</guid>
+      <guid>https://github.com/AT-Blaze/AT-Blaze.github.io.git/posts/cinaroll/</guid>
       <description>&lt;p&gt;Today I tried a recipe that I found online. It&amp;rsquo;s actually the second time I&amp;rsquo;m trying it, and its the second time its been bad&amp;hellip;&lt;/p&gt;
 &lt;p&gt;When I woke up I was craving whatever the flavor of this cinnamon roll is, so I tried to give it a second chance. It was just as I suspected&amp;hellip; It hit the spot, but god it is not a cinnamon roll.&lt;/p&gt;
 &lt;p&gt;The recipe calls for flour, greek yogurt, and protein powder, all mixed together to make a dough. Then you melt butter, mix it with cinnamon, brown sugar, and spread it on the dough. Then you roll up the dough, cut it into pieces, and then bake the little pieces into rolls. Then you whip up some cottage cheese, almond milk, and vanilla extract, to make the frosting.&lt;/p&gt;</description>
@@ -95,13 +95,13 @@ const apiKey = &#39;2559268d50eada&#39;
     
     <item>
       <title>Thoughts on Subway Surfer?</title>
-      <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/thoughts-on-subway-surfer/</link>
+      <link>https://github.com/AT-Blaze/AT-Blaze.github.io.git/posts/thoughts-on-subway-surfer/</link>
       <pubDate>Sun, 09 Jul 2023 11:20:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/thoughts-on-subway-surfer/</guid>
+      <guid>https://github.com/AT-Blaze/AT-Blaze.github.io.git/posts/thoughts-on-subway-surfer/</guid>
       <description>&lt;p&gt;&lt;figure class=&#34;something&#34;&gt;
 &lt;audio controls preload=&#34;metadata&#34;&gt;
-&lt;source src=&#34;http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/audio/podcast2.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+&lt;source src=&#34;https://github.com/AT-Blaze/AT-Blaze.github.io.git/audio/podcast2.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;/figure&gt;
@@ -112,13 +112,13 @@ I am congested, sorry. Also I sound very mean, I swear I&amp;rsquo;m not.&lt;/p&
     
     <item>
       <title>Podcast on Stoicism</title>
-      <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/podcast-on-stoicism/</link>
+      <link>https://github.com/AT-Blaze/AT-Blaze.github.io.git/posts/podcast-on-stoicism/</link>
       <pubDate>Sun, 25 Jun 2023 23:20:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/podcast-on-stoicism/</guid>
+      <guid>https://github.com/AT-Blaze/AT-Blaze.github.io.git/posts/podcast-on-stoicism/</guid>
       <description>&lt;p&gt;&lt;figure class=&#34;something&#34;&gt;
 &lt;audio controls preload=&#34;metadata&#34;&gt;
-&lt;source src=&#34;http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/audio/podcast1.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+&lt;source src=&#34;https://github.com/AT-Blaze/AT-Blaze.github.io.git/audio/podcast1.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;/figure&gt;
@@ -128,64 +128,63 @@ Here&amp;rsquo;s a little segment that includes my thoughts on stoicism, how it 
     
     <item>
       <title>Healthy or concious?</title>
-      <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/healthy-or-concious/</link>
+      <link>https://github.com/AT-Blaze/AT-Blaze.github.io.git/posts/healthy-or-concious/</link>
       <pubDate>Tue, 23 May 2023 10:00:27 -0400</pubDate>
       
-      <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/healthy-or-concious/</guid>
+      <guid>https://github.com/AT-Blaze/AT-Blaze.github.io.git/posts/healthy-or-concious/</guid>
       <description>&lt;p&gt;Recently I was thinking about when people make health decisions, like to cut out carbs, or to go vegan. Often they say they feel pretty good. On the other hand there&amp;rsquo;s often the argument that &amp;ldquo;you don&amp;rsquo;t want to be skinny, you want the feeling that you &lt;em&gt;think&lt;/em&gt; you&amp;rsquo;ll have when you&amp;rsquo;re skinny&amp;rdquo; which I think is pretty interesting. Obviously not everyone is making health decisions to be skinny, but it seems across the board that it generally seems to be a positive thing for the peope making the change.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Contemplating normalcy</title>
-      <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/contemplating-normalcy/</link>
+      <link>https://github.com/AT-Blaze/AT-Blaze.github.io.git/posts/contemplating-normalcy/</link>
       <pubDate>Tue, 16 May 2023 21:00:27 -0400</pubDate>
       
-      <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/contemplating-normalcy/</guid>
+      <guid>https://github.com/AT-Blaze/AT-Blaze.github.io.git/posts/contemplating-normalcy/</guid>
       <description>&lt;p&gt;The other day I was driving home and I was thinking about how normal I feel. I feel like on average I assume that I&amp;rsquo;m smack in the middle of the bell curve (I haven&amp;rsquo;t added a comment box yet so you all can&amp;rsquo;t tell me where you think I fall, I don&amp;rsquo;t need that kind of negativity in my life). Anyway, my point with this is how predicatble I feel becuase of this. Like&amp;hellip; I am just normal, if you make a guess about me based on &amp;ldquo;normal development&amp;rdquo; you&amp;rsquo;re probably going to be right.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Stoicism in Social Media</title>
-      <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/stoicism-in-social-media/</link>
+      <link>https://github.com/AT-Blaze/AT-Blaze.github.io.git/posts/stoicism-in-social-media/</link>
       <pubDate>Fri, 28 Apr 2023 21:00:27 -0400</pubDate>
       
-      <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/stoicism-in-social-media/</guid>
+      <guid>https://github.com/AT-Blaze/AT-Blaze.github.io.git/posts/stoicism-in-social-media/</guid>
       <description>&lt;p&gt;When I was a sophomore I took a class called biopsychology where I sat next to a girl writing her honors thesis on philosophy in American media. I have since lost touch with her but I still thing about her ideas regularly. One aspect of philosophy that her and I particularly discussed was stoicism. It’s an aspect of philosophy that has taken over, at least in my circles.&lt;/p&gt;
 &lt;p&gt;I frequently see it present in gym culture, a subculture I spend a fair bit of time in. It’s becoming increasingly frustrating for me because it I feel as though a lot of the quotes I see pertaining to stoicism are quite out of context. For example, I see a lot of men posting photos of women, avoiding them like the plague. It’s all about “staying focused” and “keeping your goals in sight.” In itself I don’t think this is the worst idea, but in practice, it seems to be pretty toxic. The way this manifests is men who start to hate women as they slowly pidgeon-hole themselves into echo chambers of other toxic men. If you don’t believe me, check the comments on any Instagram post about stoicism and lifting weights. Click on the profiles. So many people are just assholes.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/gym/</link>
+      <link>https://github.com/AT-Blaze/AT-Blaze.github.io.git/gym/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/gym/</guid>
+      <guid>https://github.com/AT-Blaze/AT-Blaze.github.io.git/gym/</guid>
       <description>&lt;p&gt;i guess i have to imagine that a lot of my contempt for the gym comes from being self concious but its just easier to complain about the culture than it is to deal with the reality that im not content with my lifestyle or habits.&lt;/p&gt;
 &lt;p&gt;but i also think that its somewhat unfair to recognize that as an absolution of the culture itself. I guess ill write this down to see if im actually just a little bitch or if there is something beyond just my self conciousness. But id say that the very self concious feeling i have at the gym is hard to ignore becuase its built into the predatory nature of the marketing as it is. But i guess ill come back to that.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>About my blog</title>
-      <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/about/</link>
+      <link>https://github.com/AT-Blaze/AT-Blaze.github.io.git/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/about/</guid>
+      <guid>https://github.com/AT-Blaze/AT-Blaze.github.io.git/about/</guid>
       <description>&lt;p&gt;This is my website where I put all my blog posts. They&amp;rsquo;re just what I think about and also I don&amp;rsquo;t spell check them.&lt;/p&gt;
 &lt;p&gt;Additionally, I built this site myself with Hugo so its pretty bad, and also that means that it&amp;rsquo;s not very feature heavy (until I learn how to add them). On the bright side, since I figured out how to add audio files to my site, those exist now!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Check your self...</title>
-      <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/writing/</link>
+      <link>https://github.com/AT-Blaze/AT-Blaze.github.io.git/writing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/writing/</guid>
+      <guid>https://github.com/AT-Blaze/AT-Blaze.github.io.git/writing/</guid>
       <description>&lt;!DOCTYPE html&gt;
 &lt;html lang=&#34;en&#34;&gt;
 &lt;head&gt;
     &lt;meta charset=&#34;UTF-8&#34;&gt;
     &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt;
-    &lt;title&gt;Readability Metrics&lt;/title&gt;
     &lt;style&gt;
         body {
             font-family: Arial, sans-serif;
@@ -210,13 +209,14 @@ Here&amp;rsquo;s a little segment that includes my thoughts on stoicism, how it 
     &lt;/style&gt;
 &lt;/head&gt;
 &lt;body&gt;
-    &lt;h1&gt;Readability Metrics&lt;/h1&gt;
+    &lt;h1&gt;&lt;/h1&gt;
     &lt;div id=&#34;editable&#34; contenteditable=&#34;true&#34;&gt;
         Type or paste text here to calculate readability metrics...
     &lt;/div&gt;
     &lt;div id=&#34;metrics&#34;&gt;
         &lt;strong&gt;Metrics:&lt;/strong&gt;
         &lt;div id=&#34;fleschScore&#34;&gt;Flesch Reading Ease: &lt;/div&gt;
+        &lt;div id=&#34;gradeLevel&#34;&gt;Grade Level: &lt;/div&gt;
         &lt;div id=&#34;wordsPerSentence&#34;&gt;Words per Sentence: &lt;/div&gt;
         &lt;div id=&#34;syllablesPer100Words&#34;&gt;Syllables per 100 Words: &lt;/div&gt;
     &lt;/div&gt;
@@ -243,8 +243,11 @@ Here&amp;rsquo;s a little segment that includes my thoughts on stoicism, how it 
 
             const fleschScore = 206.835 - (1.015 * wordsPerSentence) - (84.6 * (syllables / totalWords));
 
+            const gradeLevel = (0.39 * wordsPerSentence) + (11.8 * (syllables / totalWords)) - 15.59;
+
             return {
                 fleschScore: fleschScore.toFixed(2),
+                gradeLevel: gradeLevel.toFixed(2),
                 wordsPerSentence: wordsPerSentence.toFixed(2),
                 syllablesPer100Words: syllablesPer100Words.toFixed(2)
             };
@@ -255,6 +258,7 @@ Here&amp;rsquo;s a little segment that includes my thoughts on stoicism, how it 
             const metrics = calculateMetrics(text);
 
             document.getElementById(&#39;fleschScore&#39;).innerText = `Flesch Reading Ease: ${metrics.fleschScore}`;
+            document.getElementById(&#39;gradeLevel&#39;).innerText = `Grade Level: ${metrics.gradeLevel}`;
             document.getElementById(&#39;wordsPerSentence&#39;).innerText = `Words per Sentence: ${metrics.wordsPerSentence}`;
             document.getElementById(&#39;syllablesPer100Words&#39;).innerText = `Syllables per 100 Words: ${metrics.syllablesPer100Words}`;
         }
@@ -264,200 +268,8 @@ Here&amp;rsquo;s a little segment that includes my thoughts on stoicism, how it 
         // Initial calculation
         updateMetrics();
     &lt;/script&gt;
-&lt;/body&gt;
-&lt;/html&gt;</description>
-    </item>
-    
-    <item>
-      <title>Parker Chirps Since Silly Season</title>
-      <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/parker-test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/parker-test/</guid>
-      <description>&lt;!DOCTYPE html&gt;
-&lt;html lang=&#34;en&#34;&gt;
-&lt;head&gt;
-	&lt;meta charset=&#34;UTF-8&#34;&gt;
-	&lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt;
-	&lt;title&gt;Flashing Number&lt;/title&gt;
-	&lt;style&gt;
-	/*
-		body {
-			position: relative;
-			height: 100vh;
-			margin: 0;
-			background-color: #000;
-			color: #fff;
-		}
-	*/
-		#flashingNumber {
-			font-size: 10em;
-			position: absolute;
-			top: 50%;
-			left: 50%;
-			/*transform: translate(-50%, -50%);*/
-			text-align: center;
-			vertical-align: middle;
-			height: 100px;
-			line-height: 100px;
-		}
-	&lt;/style&gt;
-&lt;/head&gt;
-&lt;body&gt;
-&lt;!-- Create a container for the flashing number --&gt;
-&lt;div id=&#34;flashingNumber&#34;&lt;/div&gt;
-&lt;script&gt;
-    // Function to generate a random color in hex format
-    function getRandomColor() {
-        const letters = &#39;0123456789ABCDEF&#39;;
-        let color = &#39;#&#39;;
-        for (let i = 0; i &lt; 6; i++) {
-            color += letters[Math.floor(Math.random() * 16)];
-        }
-        return color;
-    }
-
-    // Function to update the number with a flashing effect
-    function flashNumber() {
-        const numberElement = document.getElementById(&#39;flashingNumber&#39;);
-        let chirps = 9;
-
-        // Use setInterval to change the number color at regular intervals
-        const intervalId = setInterval(() =&gt; {
-            // Set a random color
-            numberElement.style.color = getRandomColor();
-
-            // Update the number (you can use your own logic here)
-            numberElement.innerHTML = chirps;
-
-            // Clear the interval after a certain number of iterations
-            if (count === 20) {
-                clearInterval(intervalId);
-            }
-        }, 100); // Change color every 500 milliseconds (adjust as needed)
-    }
-
-    // Call the function to start the flashing effect
-    flashNumber();
-&lt;/script&gt;
-&lt;/body&gt;
-&lt;/html&gt;</description>
-    </item>
-    
-    <item>
-      <title>Parker Chirps Since Silly Season</title>
-      <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/temp-writing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/temp-writing/</guid>
-      <description>&lt;!DOCTYPE html&gt;
-&lt;html lang=&#34;en&#34;&gt;
-&lt;head&gt;
-	&lt;meta charset=&#34;UTF-8&#34;&gt;
-	&lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt;
-&lt;/head&gt;
-&lt;body&gt;
-&lt;div contenteditable=&#34;true&#34;&gt;
-	Write here...
-&lt;/div&gt;
-&lt;div id=readibility&gt;&lt;/div&gt;
-&lt;script&gt; 
-function () {
-    &#39;use strict&#39;;
-
-    // Utility function to count syllables in a word
-    function countSyllables(word) {
-        word = word.toLowerCase();
-        if (word.length &lt;= 3) return 1; // Short words typically have one syllable
-        word = word.replace(/(?:[^laeiouy]es|ed|[^laeiouy]e)$/, &#39;&#39;);
-        word = word.replace(/^y/, &#39;&#39;);
-        const matches = word.match(/[aeiouy]{1,2}/g);
-        return matches ? matches.length : 1;
-    }
-
-    // Function to calculate readability metrics
-    function calculateMetrics(text) {
-        const sentences = text.match(/[^.!?]+[.!?]+/g) || [text];
-        const words = text.match(/\b\w+\b/g) || [];
-        const syllables = words.reduce((count, word) =&gt; count + countSyllables(word), 0);
-
-        const totalSentences = sentences.length;
-        const totalWords = words.length;
-
-        const wordsPerSentence = totalWords / totalSentences;
-        const syllablesPer100Words = (syllables / totalWords) * 100;
-
-        // Flesch reading ease score
-        const fleschScore = 206.835 - (1.015 * wordsPerSentence) - (84.6 * (syllables / totalWords));
-
-        return {
-            fleschScore: fleschScore.toFixed(2),
-            wordsPerSentence: wordsPerSentence.toFixed(2),
-            syllablesPer100Words: syllablesPer100Words.toFixed(2),
-        };
-    }
-
-    // Function to create and display the metrics box
-    function createMetricsBox(metrics) {
-        const metricsBox = document.createElement(&#39;div&#39;);
-        metricsBox.style.position = &#39;fixed&#39;;
-        metricsBox.style.bottom = &#39;10px&#39;;
-        metricsBox.style.right = &#39;10px&#39;;
-        metricsBox.style.padding = &#39;10px&#39;;
-        metricsBox.style.backgroundColor = &#39;rgba(0, 0, 0, 0.8)&#39;;
-        metricsBox.style.color = &#39;white&#39;;
-        metricsBox.style.borderRadius = &#39;5px&#39;;
-        metricsBox.style.fontSize = &#39;14px&#39;;
-        metricsBox.style.zIndex = &#39;10000&#39;;
-        metricsBox.style.border = &#39;2px solid red&#39;; // Debug styling
-
-        // Safely set innerHTML to avoid errors
-        const safeMetrics = {
-            fleschScore: metrics.fleschScore || &#39;N/A&#39;,
-            wordsPerSentence: metrics.wordsPerSentence || &#39;N/A&#39;,
-            syllablesPer100Words: metrics.syllablesPer100Words || &#39;N/A&#39;,
-        };
-
-        try {
-            metricsBox.innerHTML = `
-                &lt;strong&gt;Readability Metrics&lt;/strong&gt;&lt;br&gt;
-                Flesch Score: ${safeMetrics.fleschScore}&lt;br&gt;
-                Words per Sentence: ${safeMetrics.wordsPerSentence}&lt;br&gt;
-                Syllables per 100 Words: ${safeMetrics.syllablesPer100Words}
-            `;
-            document.body.appendChild(metricsBox);
-            console.log(&#39;Metrics box successfully appended:&#39;, safeMetrics);
-        } catch (e) {
-            console.error(&#39;Error rendering metrics box:&#39;, e);
-        }
-    }
-
-    // Extract text content from the page
-    function getPageText() {
-        const textarea = document.querySelector(&#39;#textbox&#39;);
-        const textareaText = textarea ? textarea.value : &#39;&#39;;
-        const bodyText = document.body.innerText || &#39;&#39;;
-        return `${textareaText}\n${bodyText}`.trim();
-    }
-
-    // Main execution
-    try {
-        const pageText = getPageText();
-        console.log(&#39;Extracted text:&#39;, pageText);
-
-        const metrics = calculateMetrics(pageText);
-        console.log(&#39;Calculated metrics:&#39;, metrics);
-
-        createMetricsBox(metrics);
-    } catch (error) {
-        console.error(&#39;Error during script execution:&#39;, error);
-    }
-})();
-
-//createMetricsBox();
-&lt;/script&gt;
-&lt;/body&gt;
-&lt;/html&gt;</description>
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://github.com/AT-Blaze/AT-Blaze.github.io.git/images/Flesch-Reading-Ease-Guide.png&#34; alt=&#34;oops&#34;  /&gt;
+&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Blaze Blogs</title>
-    <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/tags/</link>
+    <link>https://github.com/AT-Blaze/AT-Blaze.github.io.git/tags/</link>
     <description>Recent content in Tags on Blaze Blogs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Sep 2023 08:48:32 -0400</lastBuildDate><atom:link href="http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Sep 2023 08:48:32 -0400</lastBuildDate><atom:link href="https://github.com/AT-Blaze/AT-Blaze.github.io.git/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Social Media</title>
-      <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/tags/social-media/</link>
+      <link>https://github.com/AT-Blaze/AT-Blaze.github.io.git/tags/social-media/</link>
       <pubDate>Sun, 03 Sep 2023 08:48:32 -0400</pubDate>
       
-      <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/tags/social-media/</guid>
+      <guid>https://github.com/AT-Blaze/AT-Blaze.github.io.git/tags/social-media/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fitness</title>
-      <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/tags/fitness/</link>
+      <link>https://github.com/AT-Blaze/AT-Blaze.github.io.git/tags/fitness/</link>
       <pubDate>Mon, 14 Aug 2023 22:48:32 -0400</pubDate>
       
-      <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/tags/fitness/</guid>
+      <guid>https://github.com/AT-Blaze/AT-Blaze.github.io.git/tags/fitness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recipes</title>
-      <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/tags/recipes/</link>
+      <link>https://github.com/AT-Blaze/AT-Blaze.github.io.git/tags/recipes/</link>
       <pubDate>Mon, 14 Aug 2023 22:48:32 -0400</pubDate>
       
-      <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/tags/recipes/</guid>
+      <guid>https://github.com/AT-Blaze/AT-Blaze.github.io.git/tags/recipes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Audio</title>
-      <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/tags/audio/</link>
+      <link>https://github.com/AT-Blaze/AT-Blaze.github.io.git/tags/audio/</link>
       <pubDate>Sun, 09 Jul 2023 11:20:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/tags/audio/</guid>
+      <guid>https://github.com/AT-Blaze/AT-Blaze.github.io.git/tags/audio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stoicism</title>
-      <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/tags/stoicism/</link>
+      <link>https://github.com/AT-Blaze/AT-Blaze.github.io.git/tags/stoicism/</link>
       <pubDate>Sun, 25 Jun 2023 23:20:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/tags/stoicism/</guid>
+      <guid>https://github.com/AT-Blaze/AT-Blaze.github.io.git/tags/stoicism/</guid>
       <description></description>
     </item>
     

@@ -1,5 +1,5 @@
 ---
-title: "Social Media's gotten kinda foul"
+title: "Social Media {:"
 date: 2023-09-03T08:48:32-04:00
 draft: false
 tags: ['social media']
