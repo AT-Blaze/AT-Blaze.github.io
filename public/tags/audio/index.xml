@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Audio on Blaze Blogs</title>
-    <link>https://github.com/AT-Blaze/AT-Blaze.github.io.git/tags/audio/</link>
+    <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/tags/audio/</link>
     <description>Recent content in Audio on Blaze Blogs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Jul 2023 11:20:00 +0000</lastBuildDate><atom:link href="https://github.com/AT-Blaze/AT-Blaze.github.io.git/tags/audio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Jul 2023 11:20:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/tags/audio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thoughts on Subway Surfer?</title>
-      <link>https://github.com/AT-Blaze/AT-Blaze.github.io.git/posts/thoughts-on-subway-surfer/</link>
+      <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/thoughts-on-subway-surfer/</link>
       <pubDate>Sun, 09 Jul 2023 11:20:00 +0000</pubDate>
       
-      <guid>https://github.com/AT-Blaze/AT-Blaze.github.io.git/posts/thoughts-on-subway-surfer/</guid>
+      <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/thoughts-on-subway-surfer/</guid>
       <description>&lt;p&gt;&lt;figure class=&#34;something&#34;&gt;
 &lt;audio controls preload=&#34;metadata&#34;&gt;
-&lt;source src=&#34;https://github.com/AT-Blaze/AT-Blaze.github.io.git/audio/podcast2.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+&lt;source src=&#34;http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/audio/podcast2.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;/figure&gt;
@@ -26,13 +26,13 @@ I am congested, sorry. Also I sound very mean, I swear I&amp;rsquo;m not.&lt;/p&
     
     <item>
       <title>Podcast on Stoicism</title>
-      <link>https://github.com/AT-Blaze/AT-Blaze.github.io.git/posts/podcast-on-stoicism/</link>
+      <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/podcast-on-stoicism/</link>
       <pubDate>Sun, 25 Jun 2023 23:20:00 +0000</pubDate>
       
-      <guid>https://github.com/AT-Blaze/AT-Blaze.github.io.git/posts/podcast-on-stoicism/</guid>
+      <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/podcast-on-stoicism/</guid>
       <description>&lt;p&gt;&lt;figure class=&#34;something&#34;&gt;
 &lt;audio controls preload=&#34;metadata&#34;&gt;
-&lt;source src=&#34;https://github.com/AT-Blaze/AT-Blaze.github.io.git/audio/podcast1.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+&lt;source src=&#34;http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/audio/podcast1.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;/figure&gt;

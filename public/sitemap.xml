@@ -2,63 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/AT-Blaze/AT-Blaze.github.io.git/</loc>
+    <loc>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/</loc>
     <lastmod>2025-02-05T22:10:00-04:00</lastmod>
   </url><url>
-    <loc>https://github.com/AT-Blaze/AT-Blaze.github.io.git/posts/</loc>
+    <loc>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/molasses/</loc>
     <lastmod>2025-02-05T22:10:00-04:00</lastmod>
   </url><url>
-    <loc>https://github.com/AT-Blaze/AT-Blaze.github.io.git/posts/the-makeover/</loc>
+    <loc>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/</loc>
+    <lastmod>2025-02-05T22:10:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/the-makeover/</loc>
     <lastmod>2024-04-12T22:10:00-04:00</lastmod>
   </url><url>
-    <loc>https://github.com/AT-Blaze/AT-Blaze.github.io.git/posts/should-you-use-a-vpn/</loc>
+    <loc>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/should-you-use-a-vpn/</loc>
     <lastmod>2023-12-24T02:48:32+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/AT-Blaze/AT-Blaze.github.io.git/tags/social-media/</loc>
+    <loc>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/tags/social-media/</loc>
     <lastmod>2023-09-03T08:48:32-04:00</lastmod>
   </url><url>
-    <loc>https://github.com/AT-Blaze/AT-Blaze.github.io.git/posts/social-media-moment/</loc>
+    <loc>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/social-media-moment/</loc>
     <lastmod>2023-09-03T08:48:32-04:00</lastmod>
   </url><url>
-    <loc>https://github.com/AT-Blaze/AT-Blaze.github.io.git/tags/</loc>
+    <loc>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/tags/</loc>
     <lastmod>2023-09-03T08:48:32-04:00</lastmod>
   </url><url>
-    <loc>https://github.com/AT-Blaze/AT-Blaze.github.io.git/posts/cinaroll/</loc>
+    <loc>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/cinaroll/</loc>
     <lastmod>2023-08-14T22:48:32-04:00</lastmod>
   </url><url>
-    <loc>https://github.com/AT-Blaze/AT-Blaze.github.io.git/tags/fitness/</loc>
+    <loc>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/tags/fitness/</loc>
     <lastmod>2023-08-14T22:48:32-04:00</lastmod>
   </url><url>
-    <loc>https://github.com/AT-Blaze/AT-Blaze.github.io.git/tags/recipes/</loc>
+    <loc>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/tags/recipes/</loc>
     <lastmod>2023-08-14T22:48:32-04:00</lastmod>
   </url><url>
-    <loc>https://github.com/AT-Blaze/AT-Blaze.github.io.git/tags/audio/</loc>
+    <loc>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/tags/audio/</loc>
     <lastmod>2023-07-09T11:20:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/AT-Blaze/AT-Blaze.github.io.git/posts/thoughts-on-subway-surfer/</loc>
+    <loc>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/thoughts-on-subway-surfer/</loc>
     <lastmod>2023-07-09T11:20:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/AT-Blaze/AT-Blaze.github.io.git/posts/podcast-on-stoicism/</loc>
+    <loc>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/podcast-on-stoicism/</loc>
     <lastmod>2023-06-25T23:20:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/AT-Blaze/AT-Blaze.github.io.git/tags/stoicism/</loc>
+    <loc>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/tags/stoicism/</loc>
     <lastmod>2023-06-25T23:20:00+00:00</lastmod>
   </url><url>
-    <loc>https://github.com/AT-Blaze/AT-Blaze.github.io.git/posts/healthy-or-concious/</loc>
+    <loc>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/healthy-or-concious/</loc>
     <lastmod>2023-05-23T10:00:27-04:00</lastmod>
   </url><url>
-    <loc>https://github.com/AT-Blaze/AT-Blaze.github.io.git/posts/contemplating-normalcy/</loc>
+    <loc>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/contemplating-normalcy/</loc>
     <lastmod>2023-05-16T21:00:27-04:00</lastmod>
   </url><url>
-    <loc>https://github.com/AT-Blaze/AT-Blaze.github.io.git/posts/stoicism-in-social-media/</loc>
+    <loc>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/stoicism-in-social-media/</loc>
     <lastmod>2023-04-28T21:00:27-04:00</lastmod>
   </url><url>
-    <loc>https://github.com/AT-Blaze/AT-Blaze.github.io.git/gym/</loc>
+    <loc>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/gym/</loc>
   </url><url>
-    <loc>https://github.com/AT-Blaze/AT-Blaze.github.io.git/about/</loc>
+    <loc>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/about/</loc>
   </url><url>
-    <loc>https://github.com/AT-Blaze/AT-Blaze.github.io.git/writing/</loc>
+    <loc>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/writing/</loc>
   </url><url>
-    <loc>https://github.com/AT-Blaze/AT-Blaze.github.io.git/series/</loc>
+    <loc>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/series/</loc>
   </url>
 </urlset>
