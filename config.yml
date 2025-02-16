@@ -21,11 +21,11 @@ menu:
 #        - name: Parker Chirps
 #          url: parker-test
 params:
-    homeInfoParams:
-        Title: BlazeBlogs is getting a makeover...
-        Content: I don't think I want to keep this site up the way it currenlty is. I thought about entirley taking it down, after all no one really reads it, and I'm not sure I *need* to have a PUBLIC permanent record that speaks direclty to the future. I also don't feel like maintaining it, and also filtering what I want to say. But I suppose on the off chance that I ever say something worth saying again, ill leave the site up for that, but im changing whats public right now.
+#     homeInfoParams:
+#        Title: "Welcome to Blaze Blogs"
+#        Content: "check out some of my posts below"
 
-    socialIcons: # optional
+#     socialIcons: # optional
 #        - name: "github"
 #          url: 
 #        - name: "instagram"
