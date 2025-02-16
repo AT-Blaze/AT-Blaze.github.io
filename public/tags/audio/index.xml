@@ -4,14 +4,14 @@
     <title>Audio on Blaze Blogs</title>
     <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/tags/audio/</link>
     <description>Recent content in Audio on Blaze Blogs</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.143.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Jul 2023 11:20:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/tags/audio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Jul 2023 11:20:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/tags/audio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thoughts on Subway Surfer?</title>
       <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/thoughts-on-subway-surfer/</link>
       <pubDate>Sun, 09 Jul 2023 11:20:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/thoughts-on-subway-surfer/</guid>
       <description>&lt;p&gt;&lt;figure class=&#34;something&#34;&gt;
 &lt;audio controls preload=&#34;metadata&#34;&gt;
@@ -23,12 +23,10 @@
 I am congested, sorry. Also I sound very mean, I swear I&amp;rsquo;m not.&lt;/p&gt;
 &lt;p&gt;Here&amp;rsquo;s a little thing about the use of video overlays like Subway Surfer or Family Guy over online content. I think I&amp;rsquo;m generally against the idea as it feels like a disctraction but by the end of this I started to wonder if having a small distraction like this might be worse than fully focusing on the video, but still better than all together losing interest in the video? But as I am writing this my recording is playing in the background and god I cannot focus&amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Podcast on Stoicism</title>
       <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/podcast-on-stoicism/</link>
       <pubDate>Sun, 25 Jun 2023 23:20:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/podcast-on-stoicism/</guid>
       <description>&lt;p&gt;&lt;figure class=&#34;something&#34;&gt;
 &lt;audio controls preload=&#34;metadata&#34;&gt;
@@ -39,6 +37,5 @@ I am congested, sorry. Also I sound very mean, I swear I&amp;rsquo;m not.&lt;/p&
 
 Here&amp;rsquo;s a little segment that includes my thoughts on stoicism, how it is used as a means to financial or material gain, and how that might be contradictory to the foundations of the philosophy. It&amp;rsquo;s a lot of rambling, but I didn&amp;rsquo;t want to type it all out so this is what we get mwahhhahahah.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

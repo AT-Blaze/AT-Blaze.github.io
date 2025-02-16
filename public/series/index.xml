@@ -4,7 +4,8 @@
     <title>Series on Blaze Blogs</title>
     <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/series/</link>
     <description>Recent content in Series on Blaze Blogs</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/series/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.143.1</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

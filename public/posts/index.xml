@@ -4,24 +4,30 @@
     <title>Posts on Blaze Blogs</title>
     <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/</link>
     <description>Recent content in Posts on Blaze Blogs</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.143.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Feb 2025 22:10:00 -0400</lastBuildDate><atom:link href="http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Feb 2025 22:46:23 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bad at Posting</title>
+      <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/bad-at-posting/</link>
+      <pubDate>Sat, 15 Feb 2025 22:46:23 -0500</pubDate>
+      <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/bad-at-posting/</guid>
+      <description>&lt;p&gt;I wanted to make another post today, and I definitely had an idea for one, but I since forgot what it was. But in order to get back into the groove of doing these, I figured I&amp;rsquo;d post this anyway. Who knows, maybe I&amp;rsquo;ll think of something.&lt;/p&gt;
+&lt;p&gt;The last post I made, I actually texted myself the idea for it so I would remember what it was cuz these things really come and go you know? So next time I&amp;rsquo;ll have to do that too, otherwise it just slips the mind. Alright well, thats probably all for this then.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Liberating the People</title>
       <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/molasses/</link>
       <pubDate>Wed, 05 Feb 2025 22:10:00 -0400</pubDate>
-      
       <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/molasses/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s time to liberate the people. Just the other day I saw a guy buying brown sugar at the store. It was the only think he bought, he had come to the grocery store for the one ingredient that he needed.&lt;/p&gt;
 &lt;p&gt;It&amp;rsquo;s time for the people to learn that you can make brown sugar with molasses and suger. All it takes is 1 tablespoon of molasses and 1 cup of sugar to make a cup of brown sugar. Don&amp;rsquo;t buy brown sugar, just buy molasses, you can keep it in your cabinet for like decades and it&amp;rsquo;ll be fine, then you can buy one big bag of sugar and you&amp;rsquo;ll have everything you&amp;rsquo;ll ever need.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The Makeover</title>
       <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/the-makeover/</link>
       <pubDate>Fri, 12 Apr 2024 22:10:00 -0400</pubDate>
-      
       <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/the-makeover/</guid>
       <description>&lt;p&gt;&lt;figure class=&#34;audio&#34;&gt;
 &lt;audio controls preload=&#34;metadata&#34;&gt;
@@ -34,12 +40,10 @@ I literallly dont know if makeover is one or two words. anyway, here it is&lt;/p
 &lt;p&gt;Update: 2/14/2025
 Since writing this I&amp;rsquo;ve realized that this makeover basically just meant, not posting? I mean, it feels like anything worth posting isn&amp;rsquo;t postable and maybe it&amp;rsquo;s just better off to talk with freinds in real life. I mean what is and what isn&amp;rsquo;t worth posting? There&amp;rsquo;s already so much on the internet whats the point of adding more yk?&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Should you use a VPN?</title>
       <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/should-you-use-a-vpn/</link>
       <pubDate>Sun, 24 Dec 2023 02:48:32 +0000</pubDate>
-      
       <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/should-you-use-a-vpn/</guid>
       <description>&lt;html lang=&#34;en&#34;&gt;
 &lt;head&gt;
@@ -84,32 +88,26 @@ const apiKey = &#39;2559268d50eada&#39;
 				ipContainer.innerHTML = `
 					&lt;p&gt;Your apparent location: ${city}&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Social Media {:</title>
       <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/social-media-moment/</link>
       <pubDate>Sun, 03 Sep 2023 08:48:32 -0400</pubDate>
-      
       <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/social-media-moment/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t regularly have instagram on my phone, I usually only download it to do someting specific, like post, or reply to a message, or something like that. But I swear every time I have downloaded it, it gets more and more toxic. The biggest thing that bothers me is just how polarizing all the posts are. Maybe I was just in an echo chamber when I was younger, but now it just seems like every post has some absolute war going on in the comments. And it really doesn&amp;rsquo;t seem to matter what the post is about. It could be something wildly controversial like the election, or it can just be someone showing how they made their meal and they&amp;rsquo;ll be someone in there to make a comment about it.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>A cinnamon roll recipe I tried</title>
       <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/cinaroll/</link>
       <pubDate>Mon, 14 Aug 2023 22:48:32 -0400</pubDate>
-      
       <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/cinaroll/</guid>
       <description>&lt;p&gt;Today I tried a recipe that I found online. It&amp;rsquo;s actually the second time I&amp;rsquo;m trying it, and its the second time its been bad&amp;hellip;&lt;/p&gt;
 &lt;p&gt;When I woke up I was craving whatever the flavor of this cinnamon roll is, so I tried to give it a second chance. It was just as I suspected&amp;hellip; It hit the spot, but god it is not a cinnamon roll.&lt;/p&gt;
 &lt;p&gt;The recipe calls for flour, greek yogurt, and protein powder, all mixed together to make a dough. Then you melt butter, mix it with cinnamon, brown sugar, and spread it on the dough. Then you roll up the dough, cut it into pieces, and then bake the little pieces into rolls. Then you whip up some cottage cheese, almond milk, and vanilla extract, to make the frosting.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Thoughts on Subway Surfer?</title>
       <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/thoughts-on-subway-surfer/</link>
       <pubDate>Sun, 09 Jul 2023 11:20:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/thoughts-on-subway-surfer/</guid>
       <description>&lt;p&gt;&lt;figure class=&#34;something&#34;&gt;
 &lt;audio controls preload=&#34;metadata&#34;&gt;
@@ -121,12 +119,10 @@ const apiKey = &#39;2559268d50eada&#39;
 I am congested, sorry. Also I sound very mean, I swear I&amp;rsquo;m not.&lt;/p&gt;
 &lt;p&gt;Here&amp;rsquo;s a little thing about the use of video overlays like Subway Surfer or Family Guy over online content. I think I&amp;rsquo;m generally against the idea as it feels like a disctraction but by the end of this I started to wonder if having a small distraction like this might be worse than fully focusing on the video, but still better than all together losing interest in the video? But as I am writing this my recording is playing in the background and god I cannot focus&amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Podcast on Stoicism</title>
       <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/podcast-on-stoicism/</link>
       <pubDate>Sun, 25 Jun 2023 23:20:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/podcast-on-stoicism/</guid>
       <description>&lt;p&gt;&lt;figure class=&#34;something&#34;&gt;
 &lt;audio controls preload=&#34;metadata&#34;&gt;
@@ -137,34 +133,27 @@ I am congested, sorry. Also I sound very mean, I swear I&amp;rsquo;m not.&lt;/p&
 
 Here&amp;rsquo;s a little segment that includes my thoughts on stoicism, how it is used as a means to financial or material gain, and how that might be contradictory to the foundations of the philosophy. It&amp;rsquo;s a lot of rambling, but I didn&amp;rsquo;t want to type it all out so this is what we get mwahhhahahah.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Healthy or concious?</title>
       <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/healthy-or-concious/</link>
       <pubDate>Tue, 23 May 2023 10:00:27 -0400</pubDate>
-      
       <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/healthy-or-concious/</guid>
       <description>&lt;p&gt;Recently I was thinking about when people make health decisions, like to cut out carbs, or to go vegan. Often they say they feel pretty good. On the other hand there&amp;rsquo;s often the argument that &amp;ldquo;you don&amp;rsquo;t want to be skinny, you want the feeling that you &lt;em&gt;think&lt;/em&gt; you&amp;rsquo;ll have when you&amp;rsquo;re skinny&amp;rdquo; which I think is pretty interesting. Obviously not everyone is making health decisions to be skinny, but it seems across the board that it generally seems to be a positive thing for the peope making the change.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Contemplating normalcy</title>
       <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/contemplating-normalcy/</link>
       <pubDate>Tue, 16 May 2023 21:00:27 -0400</pubDate>
-      
       <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/contemplating-normalcy/</guid>
       <description>&lt;p&gt;The other day I was driving home and I was thinking about how normal I feel. I feel like on average I assume that I&amp;rsquo;m smack in the middle of the bell curve (I haven&amp;rsquo;t added a comment box yet so you all can&amp;rsquo;t tell me where you think I fall, I don&amp;rsquo;t need that kind of negativity in my life). Anyway, my point with this is how predicatble I feel becuase of this. Like&amp;hellip; I am just normal, if you make a guess about me based on &amp;ldquo;normal development&amp;rdquo; you&amp;rsquo;re probably going to be right.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Stoicism in Social Media</title>
       <link>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/stoicism-in-social-media/</link>
       <pubDate>Fri, 28 Apr 2023 21:00:27 -0400</pubDate>
-      
       <guid>http://localhost:1313/AT-Blaze/AT-Blaze.github.io.git/posts/stoicism-in-social-media/</guid>
       <description>&lt;p&gt;When I was a sophomore I took a class called biopsychology where I sat next to a girl writing her honors thesis on philosophy in American media. I have since lost touch with her but I still thing about her ideas regularly. One aspect of philosophy that her and I particularly discussed was stoicism. It’s an aspect of philosophy that has taken over, at least in my circles.&lt;/p&gt;
 &lt;p&gt;I frequently see it present in gym culture, a subculture I spend a fair bit of time in. It’s becoming increasingly frustrating for me because it I feel as though a lot of the quotes I see pertaining to stoicism are quite out of context. For example, I see a lot of men posting photos of women, avoiding them like the plague. It’s all about “staying focused” and “keeping your goals in sight.” In itself I don’t think this is the worst idea, but in practice, it seems to be pretty toxic. The way this manifests is men who start to hate women as they slowly pidgeon-hole themselves into echo chambers of other toxic men. If you don’t believe me, check the comments on any Instagram post about stoicism and lifting weights. Click on the profiles. So many people are just assholes.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
