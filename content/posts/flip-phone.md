@@ -16,3 +16,9 @@ and you can hardly use any non KaiOS apps. If this works out, I think it might b
 Images that come in are super small and low res, can read anything anyone sends if it has text. Texting isnt too bad. I also got a text earlier and replied with a call which was well recieved, so thats exciting. 
 
 Other than that, while I was at work I just checked my email or any other messaging services on my laptop.
+
+3/21/2025 - Day 2
+---
+Today I didn't bring my iphone with me to work, just my flip phone. One other thing is some of my contacts didn't sync, so I had one or two friends I wanted to text who I couldn't reach. Another thing is I reached out to a friend I hadn't talked to in a while, those convos can be hard because its too difficult to type everything out. I'm sure I'll get faster on the predictive keyboard as time goes on. 
+
+Suprisingly havent had any 2FA things yet, so we'll see how that goes. No music on here yet either. I cant even change the background, its pretty mid lol. I would consider getting a more serious flip phone if I were gonna stick with it. Especially because I dont think this one supports RCS, which I think, if I understand it right, makes texts a lot more functional. We'll see how it goes. 
