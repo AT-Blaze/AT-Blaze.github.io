@@ -46,3 +46,7 @@ Don't get me wrong, KaiOS really hasn't crashed on me much, and it probably woul
 My CAT phone doesnt work with my verizon sim card, so that means I cant use it which sucks. Cause I would say the CAT phone is better IF, you take off all the shit apps. The battery life of the cat phone is MUCH worse, and the phone is heavier, but it does have google maps. It also has spotify and venmo, and I know a lot of people *tweak* about not having their precious spotify with a flip phone. But yk what, its fine. You'll live. You can download music, or just, enjoy the world around you. Thats what Ive been doing. I throw in a CD and enjoy my ride. I can definitely live without spotify, and maybe this is crazy to say, but I might *prefer* to. It almost makes everything simpler to just have a phone that calls and texts and thats it. So CAT has more functionality than I think I need. But also the resolution is nice because it does make texting a bit easier, on my TCL Flip, a single text takes up like the whole screen. 
 
 Anyway, verizon has a CAT-like phone that I might try since it seems like having a flip phone is indeed feasible. We shall see.
+
+One more thing to add about the GPS and such, if the phone goes dark, like the screen times out, theres a chance, I think, that you lose your maps and have to start over. Thats annoying when you're just trying to drive. 
+
+Also, damn near impossible to recieve images on this thing, they're quite often too compressed to read if theres anything written in the photos.
