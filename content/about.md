@@ -7,7 +7,7 @@ This is my website where I put all my blog posts. They're just what I think abou
 
 Additionally, I built this site myself with Hugo so its pretty bad, and also that means that it's not very feature heavy (until I learn how to add them). On the bright side, since I figured out how to add audio files to my site, those exist now!
 
-Besides that, I'm a college student so this is a side hobby, usually something I do when I'm busy procrastinating my thesis and actual work! Actually I'm pretty much done with my thesis now...
+Besides that, ~~I'm a college student so this is a side hobby, usually something I do when I'm busy procrastinating my thesis and actual work! Actually I'm pretty much done with my thesis now...~~ Well, now I'm actually done with my thesis, it's been about 2 years since I finished that. Maybe 2.5 years... Now I'm a grad student. Who knows how much time I'll have to contribute to this, and there was a time where I was contributing a lot to this until I decided not to...  We'll see if that feeling comes back or not.
 
 For anyone interested, heres a list of my personal records for various fitness activities that I think are probably worth noting. I haven't included anything silly like front squat, calf raise, hamstring curl, or overhead press, just the stuff people usually ask about:
 
@@ -17,3 +17,6 @@ For anyone interested, heres a list of my personal records for various fitness a
 | Squat        | 405lbs      |11/2022     |
 | Bench        | 280lbs      |08/2023     |
 | Mile         | 6:38        |7/2022      |
+
+At this point most of those are probably not true ^ as of September 2026.
+I can probably still deadlift 405 beltless. I could probably not squat 405 anymore, and can probably only bench like 225. We'll see if I find more time to focus on my running or lifting. Lots of things going on...
